@@ -1,0 +1,255 @@
+[
+  {
+    "totalSteps": 4999,
+    "paths": ["QTC", "JTR", "LQJ", "NSH", "KPC", "MJX"],
+    "dirIndex": 157
+  },
+
+  {
+    "totalSteps": 9999,
+    "paths": ["FMR", "CSJ", "VGJ", "VKT", "DHD", "STL"],
+    "dirIndex": 46
+  },
+
+  {
+    "totalSteps": 19999,
+    "paths": ["RXX", "VBF", "XVM", "TPM", "MQM", "XDL"],
+    "dirIndex": 93
+  },
+
+  {
+    "totalSteps": 39999,
+    "paths": ["MQL", "KFF", "BNM", "VTK", "BCX", "HBN"],
+    "dirIndex": 187
+  },
+
+  {
+    "totalSteps": 70000,
+    "paths": ["SSN", "JFD", "CHT", "DMT", "LKT", "NDH"],
+    "dirIndex": 60
+  },
+
+  {
+    "totalSteps": 100000,
+    "paths": ["LFT", "FTH", "RCG", "NMT", "TVC", "KNP"],
+    "dirIndex": 201
+  },
+
+  {
+    "totalSteps": 200000,
+    "paths": ["VHN", "SCK", "TLD", "KVT", "HPR", "DKM"],
+    "dirIndex": 133
+  },
+
+  {
+    "totalSteps": 300000,
+    "paths": ["BVQ", "LFC", "BSF", "JBX", "XSK", "DHC"],
+    "dirIndex": 65
+  },
+
+  {
+    "totalSteps": 400000,
+    "paths": ["CQD", "CRT", "CMJ", "KDJ", "NHM", "QDJ"],
+    "dirIndex": 266
+  },
+
+  {
+    "totalSteps": 500000,
+    "paths": ["LVL", "KPJ", "CQC", "MVC", "LKT", "PJD"],
+    "dirIndex": 198
+  },
+
+  {
+    "totalSteps": 600000,
+    "paths": ["CGK", "RDL", "RVT", "FHR", "NTQ", "TNX"],
+    "dirIndex": 130
+  },
+
+  {
+    "totalSteps": 700000,
+    "paths": ["TKG", "DKB", "HLX", "LVK", "QQV", "KNC"],
+    "dirIndex": 62
+  },
+
+  {
+    "totalSteps": 6000000,
+    "paths": ["DCS", "NKF", "HLX", "NMT", "QHQ", "CBB"],
+    "dirIndex": 224
+  },
+
+  {
+    "totalSteps": 20000000,
+    "paths": ["XKQ", "PMS", "BKG", "FHL", "MBF", "BHM"],
+    "dirIndex": 119
+  },
+
+  {
+    "totalSteps": 40000000,
+    "paths": ["CBT", "NGN", "FJR", "RLX", "MBB", "MXK"],
+    "dirIndex": 238
+  },
+
+  {
+    "totalSteps": 70000000,
+    "paths": ["GQX", "BMB", "HCM", "BCS", "XNC", "NCC"],
+    "dirIndex": 13
+  },
+
+  {
+    "totalSteps": 100000000,
+    "paths": ["RKL", "TKM", "NLH", "LXM", "LNQ", "PFV"],
+    "dirIndex": 57
+  },
+
+  {
+    "totalSteps": 500000000,
+    "paths": ["VDG", "PSQ", "BFS", "QJL", "XNC", "JMM"],
+    "dirIndex": 16
+  },
+
+  {
+    "totalSteps": 700000000,
+    "paths": ["RHV", "CGM", "CMJ", "XFB", "CQX", "GKD"],
+    "dirIndex": 130
+  },
+
+  {
+    "totalSteps": 900000000,
+    "paths": ["GKR", "LNF", "PLH", "QPF", "MBB", "SFR"],
+    "dirIndex": 244
+  },
+
+  {
+    "totalSteps": 1200000000,
+    "paths": ["PJL", "VLD", "JXV", "FHB", "XSK", "KNP"],
+    "dirIndex": 146
+  },
+
+  {
+    "totalSteps": 1500000000,
+    "paths": ["GQF", "DKB", "RCG", "DDJ", "TRC", "DLT"],
+    "dirIndex": 48
+  },
+
+  {
+    "totalSteps": 2000000000,
+    "paths": ["RSF", "FHS", "CJS", "QGT", "LKT", "JTT"],
+    "dirIndex": 64
+  },
+
+  {
+    "totalSteps": 3000000000,
+    "paths": ["LSH", "STN", "TLD", "GHS", "JKG", "LCV"],
+    "dirIndex": 96
+  },
+
+  {
+    "totalSteps": 5000000000,
+    "paths": ["GNF", "QMM", "XKF", "SNR", "GHT", "FGH"],
+    "dirIndex": 160
+  },
+
+  {
+    "totalSteps": 10000000000,
+    "paths": ["MVQ", "KLM", "GLV", "MXG", "DHD", "JRK"],
+    "dirIndex": 51
+  },
+
+  {
+    "totalSteps": 20000000000,
+    "paths": ["FMR", "KTS", "LQJ", "NSH", "XBP", "SMT"],
+    "dirIndex": 121
+  },
+
+  {
+    "totalSteps": 2500000000,
+    "paths": ["TKG", "VJV", "TLD", "FXH", "KMP", "TQX"],
+    "dirIndex": 137
+  },
+
+  {
+    "totalSteps": 3500000000,
+    "paths": ["CGK", "QNP", "QCM", "KPL", "TVC", "GVT"],
+    "dirIndex": 169
+  },
+
+  {
+    "totalSteps": 4500000000,
+    "paths": ["GGV", "RDL", "SLC", "MBX", "DHD", "MMJ"],
+    "dirIndex": 201
+  },
+
+  {
+    "totalSteps": 5500000000,
+    "paths": ["DMF", "XCM", "XGF", "VCB", "NTQ", "JQT"],
+    "dirIndex": 233
+  },
+
+  {
+    "totalSteps": 6500000000,
+    "paths": ["BVQ", "FLJ", "DPJ", "MJN", "DQL", "NDH"],
+    "dirIndex": 265
+  },
+
+  {
+    "totalSteps": 7500000000,
+    "paths": ["VHN", "LXH", "PRK", "SNR", "LNQ", "HHH"],
+    "dirIndex": 28
+  },
+
+  {
+    "totalSteps": 8500000000,
+    "paths": ["TRG", "PRQ", "CHT", "LXM", "LLD", "RLL"],
+    "dirIndex": 60
+  },
+
+  {
+    "totalSteps": 9500000000,
+    "paths": ["NLX", "DVX", "GLV", "FDT", "JKB", "CBB"],
+    "dirIndex": 92
+  },
+
+  {
+    "totalSteps": 10500000000,
+    "paths": ["PBX", "FDN", "FLD", "FKM", "CJK", "JTT"],
+    "dirIndex": 124
+  },
+
+  {
+    "totalSteps": 11000000000,
+    "paths": ["CBT", "KPJ", "PLH", "TXX", "XGG", "VGV"],
+    "dirIndex": 140
+  },
+
+  {
+    "totalSteps": 15000000000,
+    "paths": ["RTF", "KKJ", "CVV", "XFB", "VQD", "FFB"],
+    "dirIndex": 268
+  },
+
+  {
+    "totalSteps": 20000000000,
+    "paths": ["MPB", "QDG", "JRJ", "FMB", "PLX", "QGG"],
+    "dirIndex": 159
+  },
+  {
+    "totalSteps": 30000000000,
+    "paths": ["MTH", "KLM", "QCM", "NMT", "JKH", "MJX"],
+    "dirIndex": 210
+  },
+  {
+    "totalSteps": 40000000000,
+    "paths": ["CGK", "VLD", "GFQ", "FKM", "QHQ", "STL"],
+    "dirIndex": 261
+  },
+  {
+    "totalSteps": 45000000000,
+    "paths": ["LFT", "DKB", "BCT", "FHL", "XBP", "CBB"],
+    "dirIndex": 101
+  },
+  {
+    "totalSteps": 46000000000,
+    "paths": ["NLX", "JTR", "DDH", "FQK", "LTV", "JTT"],
+    "dirIndex": 133
+  }
+]

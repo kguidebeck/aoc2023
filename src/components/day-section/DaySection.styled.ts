@@ -10,6 +10,7 @@ export const StyledSection = styled.section`
   background-color: var(--background);
   min-height: 330px;
   border: 2px solid ${Color.white};
+  margin: 0 ${rem(40)};
 
   &:nth-of-type(odd) {
     --background: ${Color.green};
